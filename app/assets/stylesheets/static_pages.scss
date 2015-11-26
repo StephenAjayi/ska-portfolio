@@ -1,0 +1,85 @@
+body {
+  background-color: #ccc;
+}
+
+.full-width {
+  width: 100%
+}
+
+.jumbo-nav-padding {
+  padding-left: 15%;
+}
+.hero-image {
+  background-image: image-url("/assets/icon-user-default.png");
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-size:cover;
+}
+
+.jumbo-brand {
+  font-size: 8.5em;
+  font-weight: bold;
+  padding-top: 15%;
+  padding-bottom: 15%;
+  letter-spacing: .1em;
+}
+
+.jumbo-brand .emphasize {
+  color:#FF7F50;
+}
+
+.brand-text {
+  font-size: 1.1em;
+  font-weight: bold;
+  color:#777;
+  padding-top: 8%;
+  padding-bottom: 0%;
+}
+
+.profile-icons {
+  padding-top:50px;
+}
+
+.hero-section {
+  margin-top: 300px;
+}
+
+.nav-text {
+  font-size: 1em;
+  font-weight: bold;
+  color:#333;
+  padding-top: 50px;
+  padding-bottom: 0%;
+  text-decoration: none;
+}
+
+a:link {
+  color:#333;
+    text-decoration: none;
+}
+
+a:visited {
+  color:#333;
+    text-decoration: none;
+}
+
+a:hover {
+  color:#FF7F50;
+    text-decoration: none;
+}
+
+a:active {
+  color: #333;
+    text-decoration: none;
+}
+
+.contact-info {
+  text-align: right;
+}
+.jumbo-nav-padding-right {
+  padding-right: 20%;
+}
+
+.email-phone {
+  padding-top: 50px;
+}

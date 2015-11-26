@@ -8,6 +8,8 @@ gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'pg'
+gem 'paperclip', '~> 4.1'
+
 
 group :development do
   gem 'byebug'
